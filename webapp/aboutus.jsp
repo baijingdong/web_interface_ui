@@ -195,7 +195,7 @@
 var arr = new Array(['马秉楠','QQ:120444996','手机号码','Mail:bingnanma@sohu-inc.com'],
                     ['李紫豪','QQ:309169581','手机号码','Mail:zihaoli@sohu-inc.com'],
                     ['毛舒','QQ:897857113','手机号码','Mail:shumao@sohu-inc.com'],
-                    ['韩雷钧','QQ:749814396','手机号码','Mail:leijunhansohu-inc.com'],
+                    ['韩雷钧','QQ:749814396','手机号码','Mail:leijunhan@sohu-inc.com'],
                     ['白静栋','QQ:453587332','Phone:18811596820','Mail:jingdongbai@sohu-inc.com']
 
 
