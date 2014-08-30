@@ -203,7 +203,7 @@ $('.ui.info.message').transition('fade up');
 </script>
 <script type="text/javascript">
 $('#submit_button').click(function(){
-         $('#submit_button').hide();
+        // $('#submit_button').hide();
        $('#submit').show();
        $('.ui.page.dimmer')   
   .dimmer('toggle'
